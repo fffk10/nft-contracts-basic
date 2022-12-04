@@ -1,0 +1,6 @@
+<svg viewBox="0 0 350 350" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="0 0, 175 0, 175 175, 0 175" stroke="black" fill="yellow" />
+  <polygon points="0 175, 175 175, 175 350, 0 350" stroke="black" fill="green" />
+  <polygon points="175 0, 350 0, 350 175, 175 175" stroke="black" fill="blue" />
+  <polygon points="175 175, 350 175, 350 350, 175 350" stroke="black" fill="gold" />
+</svg>
